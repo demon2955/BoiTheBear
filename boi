@@ -1,0 +1,3 @@
+git clone https://github.com/Fl3xxRichie/BoiTheBear.git
+cd BoiTheBear
+npm install
